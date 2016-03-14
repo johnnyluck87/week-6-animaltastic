@@ -1,0 +1,19 @@
+body {
+	background-color: gray;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+	border: solid 5px black;
+	background-color: yellow;
+	font-weight: bold;
+}
+
+button, div, form, input {
+           margin: 10px;
+       }
+
+.container {
+	border: solid 5px black;
+}
